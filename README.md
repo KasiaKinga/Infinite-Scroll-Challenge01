@@ -1,5 +1,3 @@
-<!-- # Project Title -->
-
 # 1. Infinite-Scroll Challenge
 
 ## Description
