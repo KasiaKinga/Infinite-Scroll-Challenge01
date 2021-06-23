@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import PinsScreen from "./PinsScreen";
+// REPLACE THIS FILE WITH YOUR OWN JSON FILE PATH
 import jsonData from "./data/nyc_ttp_pins.json";
 
 const App = () => {

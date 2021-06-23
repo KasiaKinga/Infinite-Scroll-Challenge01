@@ -6,6 +6,11 @@ import InfiniteScroll from "react-infinite-scroll-component";
 const NUMBER_OF_INITIAL_LOADED_PINS = 20;
 const NUMBER_OF_LOADED_PINS = 10;
 
+/**
+ * Component displays pins along with information about status of fetched data and allows infinite scrolling
+ * 
+ * @param {object} props Object which contains array of data, see examples in './data/nyc_ttp_pins.json'
+ */
 const PinsScreen = (props) => {
   const [pins, setPins] = useState(
     props.data.slice(0, NUMBER_OF_INITIAL_LOADED_PINS)
