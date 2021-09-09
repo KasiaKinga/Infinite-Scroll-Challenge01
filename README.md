@@ -1,5 +1,7 @@
 # 1. Infinite-Scroll Challenge
 
+<img src="./infinite_scroll.gif" width="700px"/>
+
 ## Description
 
 Responsive application which displays Pins and allows infinite scrolling. The implementation is done in a modular way so that the rendering of Pins is easily reused in other pages.
