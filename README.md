@@ -1,4 +1,4 @@
-# 1. Infinite-Scroll Challenge
+# Infinite-Scroll Challenge
 
 <img src="./infinite_scroll.gif" width="700px"/>
 
